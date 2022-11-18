@@ -1,0 +1,9 @@
+  <l:Code>
+   <r:Agency>de.gesis</r:Agency><r:ID>__CodeID__</r:ID><r:Version>1.0.0</r:Version>
+   <r:CategoryReference>
+    <r:Agency>de.gesis</r:Agency><r:ID>__CatID__</r:ID><r:Version>1.0.0</r:Version>
+    <r:TypeOfObject>Category</r:TypeOfObject>
+   </r:CategoryReference>
+   <r:Value>__CodeValue__</r:Value>
+  </l:Code>
+  

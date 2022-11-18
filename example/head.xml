@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:DDIInstance xmlns:ddi="ddi:instance:3_2" xmlns:s="ddi:studyunit:3_2" xmlns:p="ddi:physicaldataproduct:3_2" xmlns:pi="ddi:physicalinstance:3_2" xmlns:c="ddi:conceptualcomponent:3_2" xmlns:l="ddi:logicalproduct:3_2" xmlns:r="ddi:reusable:3_2" xmlns:d="ddi:datacollection:3_2" xmlns:a="ddi:archive:3_2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/terms/" xmlns:m2="ddi:physicaldataproduct_ncube_tabular:3_2" xmlns:g="ddi:group:3_2" xmlns:ds="ddi:dataSet:3_2" xsi:schemaLocation="ddi:instance:3_2 http://www.ddialliance.org/Specification/DDI-Lifecycle/3.2/XMLSchema/instance.xsd">
+   <r:Agency>de.gesis</r:Agency><r:ID>gesis_XXXXXX</r:ID><r:Version>1.0.0</r:Version>
+   <r:Citation>
+      <r:Title>
+       <r:String>DDI3.2 SPSS/STATA documentation for study XXXXXX</r:String>
+      </r:Title>
+      <r:Creator>
+       <r:CreatorName><r:String>GESIS - Leibniz Institute for the Social Sciences</r:String></r:CreatorName>
+      </r:Creator>
+   </r:Citation>
+   <g:Group>
+      <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_G</r:ID><r:Version>1.0.0</r:Version>
+      <g:SubGroup geography="G2">
+         <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_SG</r:ID><r:Version>1.0.0</r:Version>
+         <s:StudyUnit>
+            <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_SU</r:ID><r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="StudyNumber">XXXXXX</r:UserID>
+            <r:UserID typeOfUserID="VersionNumber">1.0.0</r:UserID>
+            <d:DataCollection>
+               <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_DatCol</r:ID><r:Version>1.0.0</r:Version>
+            </d:DataCollection>
+            <l:LogicalProduct>
+               <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_LogPro</r:ID><r:Version>1.0.0</r:Version>
+               <r:VariableSchemeReference>
+                  <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_VarSch</r:ID><r:Version>1.0.0</r:Version>
+                  <r:TypeOfObject>VariableScheme</r:TypeOfObject>
+               </r:VariableSchemeReference>
+            </l:LogicalProduct>
+         </s:StudyUnit>
+
+      </g:SubGroup>
+   </g:Group>
+ <g:ResourcePackage>
+  <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_ResPac</r:ID><r:Version>1.0.0</r:Version>
+   
+__CategorySchemes__
+   
+  <l:CodeListScheme>
+   <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_CodLisSch</r:ID><r:Version>1.0.0</r:Version>
+__CodeLists__
+  </l:CodeListScheme>
+   
+  <l:VariableScheme>
+   <r:Agency>de.gesis</r:Agency><r:ID>XXXXXX_VarSch</r:ID><r:Version>1.0.0</r:Version>
+__VariableList__
+  </l:VariableScheme>
+ 
+ </g:ResourcePackage>
+</ddi:DDIInstance>

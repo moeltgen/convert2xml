@@ -1,0 +1,20 @@
+<MetadataExpectation 
+ xmlns="gesis:metadata-expectation:v1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="gesis:metadata-expectation:v1 metadata-expectation-v1.xsd"> 
+<StudyExpectation>
+ <StudyNumber>ZA0055</StudyNumber>
+ <NumberOfVariables>178</NumberOfVariables>
+ <NumberOfInterviewLanguages>2</NumberOfInterviewLanguages>
+</StudyExpectation>
+<StudyExpectation>
+ <StudyNumber>ZA1053</StudyNumber>
+ <NumberOfVariables>317</NumberOfVariables>
+ <NumberOfInterviewLanguages>1</NumberOfInterviewLanguages>
+</StudyExpectation>
+<StudyExpectation>
+ <StudyNumber>ZA3450</StudyNumber>
+ <NumberOfVariables>843</NumberOfVariables>
+ <NumberOfInterviewLanguages>1</NumberOfInterviewLanguages>
+</StudyExpectation>
+</MetadataExpectation>

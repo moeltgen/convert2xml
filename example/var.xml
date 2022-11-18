@@ -1,0 +1,23 @@
+
+ <l:Variable>
+  <r:Agency>de.gesis</r:Agency><r:ID>__VarID__</r:ID><r:Version>1.0.0</r:Version>
+  <r:UserAttributePair>
+   <r:AttributeKey>MetadataFromDataset</r:AttributeKey>
+   <r:AttributeValue>__FileName__</r:AttributeValue>
+  </r:UserAttributePair>
+  <l:VariableName>
+   <r:String>__VarName__</r:String>
+  </l:VariableName>
+  <r:Label>
+   <r:Content xml:lang="__lang__">__VarLabel__</r:Content>
+  </r:Label>
+ <l:VariableRepresentation> 
+   <r:CodeRepresentation> 
+    <r:CodeListReference>
+     <r:Agency>de.gesis</r:Agency><r:ID>__VarCodLisID__</r:ID><r:Version>1.0.0</r:Version>
+     <r:TypeOfObject>CodeList</r:TypeOfObject>
+    </r:CodeListReference>
+   </r:CodeRepresentation>
+  </l:VariableRepresentation>
+ </l:Variable>
+ 

@@ -1,0 +1,7 @@
+
+<l:Category isMissing="__CategoryMiss__">
+ <r:Agency>de.gesis</r:Agency><r:ID>__CatID__</r:ID><r:Version>1.0.0</r:Version>
+ <l:CategoryName>
+  <r:String xml:lang="__lang__">__CatLabel__</r:String>
+ </l:CategoryName>
+</l:Category>

@@ -1,0 +1,12 @@
+
+ <l:CodeList>
+  <r:Agency>de.gesis</r:Agency><r:ID>__VarCodLisID__</r:ID><r:Version>1.0.0</r:Version>
+  <l:CodeListName>
+  <r:String>Codelist for __VarCodLisID__</r:String>
+  </l:CodeListName>
+  <r:CategorySchemeReference>
+   <r:Agency>de.gesis</r:Agency><r:ID>__VarCatSchID__</r:ID><r:Version>1.0.0</r:Version>
+   <r:TypeOfObject>CategoryScheme</r:TypeOfObject>
+  </r:CategorySchemeReference>
+__Codes__
+ </l:CodeList>
