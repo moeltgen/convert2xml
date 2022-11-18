@@ -1,0 +1,6 @@
+try C:\Users\moeltgen\Documents\python\convertspssxml\EDDI22\convert2xml\test4\ZA5676_v1-0-0_new.sav  with UTF-7
+Conversion of: C:\Users\moeltgen\Documents\python\convertspssxml\EDDI22\convert2xml\test4\ZA5676_v1-0-0_new.sav (de) 
+ERROR in docheck: ZA5676_v1-0-0_new.sav
+   Unable to convert string to the requested encoding (invalid byte sequence) (Encoding problem) 
+ERROR in docheck: ZA5676_v1-0-0_new.sav
+   local variable 'meta' referenced before assignment  

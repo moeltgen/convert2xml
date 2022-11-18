@@ -1,0 +1,3 @@
+try test2\ZA1053.sav  with UTF-8
+Conversion of: test2\ZA1053.sav (de) 
+Result: Conversion passed 
